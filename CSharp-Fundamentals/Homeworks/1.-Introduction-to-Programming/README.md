@@ -1,8 +1,6 @@
 Homework: Introduction to Programming
 =====================================
 
-### [Submit homework in bgcoder](http://bgcoder.com/Contests/314/CSharp-Fundamentals-01-Introduction-to-Programming)
-
 ### Problem List
 
 1. [Play with Visual Studio](./01. Play with VS)
